@@ -1,1 +1,2 @@
-I am creating a second file from repository
+I am creating a second file from repository and now I edited it locally
+and now I edited again!
